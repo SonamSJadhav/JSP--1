@@ -1,2 +1,2 @@
 # JSP-1
-Project using java.
+my new project using java.
